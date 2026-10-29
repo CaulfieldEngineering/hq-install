@@ -15,7 +15,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key><string>com.caulfieldengineering.hq</string>
-        <key>bundle-version</key><string>1.1.8</string>
+        <key>bundle-version</key><string>1.1.9</string>
         <key>kind</key><string>software</string>
         <key>title</key><string>HQ</string>
       </dict>
